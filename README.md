@@ -2,8 +2,6 @@
 
 A real-time terminal UI that visualizes token usage from your [Claude Code](https://claude.ai/code) sessions — input tokens, output tokens, cost, and cache hit rates — all as live histograms directly in your terminal.
 
-![cctv screenshot](image/スク린샷%202026-02-21%20午後4.25.14.png)
-
 ---
 
 ## How it works
