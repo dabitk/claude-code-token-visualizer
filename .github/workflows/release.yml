@@ -37,6 +37,7 @@ jobs:
           pip install pyinstaller
 
       - name: Build binary
+        shell: bash
         run: |
           pyinstaller --onefile --name cctv \
             --hidden-import textual \
